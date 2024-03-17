@@ -26,7 +26,7 @@ INSERT INTO students (first_name, last_name, email, enrollment_date) VALUES
 ```
 1. Create the students table and populate it with the initial data above ^ 
 2. Clone the repository or download the .zip file and unzip it
-3. Open with any source code editor you prefer
+3. Open with IntelliJ
 4. Run the program and enter a number from 1-4
    - Entering "1" runs getAllStudents()
    - Entering "2" runs addStudent()
