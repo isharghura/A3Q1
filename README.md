@@ -28,7 +28,7 @@ INSERT INTO students (first_name, last_name, email, enrollment_date) VALUES
 2. Clone the repository or download the .zip file and unzip it
 3. Open with any source code editor you prefer
 4. Run the program and enter a number from 1-4
-   5. Entering "1" runs getAllStudents()
-   6. Entering "2" runs addStudent()
-   7. Entering "3" runs updateStudentEmail()
-   8. Entering "4" runs deleteStudent()
+   - Entering "1" runs getAllStudents()
+   - Entering "2" runs addStudent()
+   - Entering "3" runs updateStudentEmail()
+   - Entering "4" runs deleteStudent()
